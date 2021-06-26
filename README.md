@@ -1,5 +1,5 @@
 # Semana_OmniStack_10-com-Knex.js 
-1. Sistema para desenvolvedores nas regiões por filtro de tecnologia.
+1. Sistema para encontrar desenvolvedores nas regiões por filtro de tecnologia.
 2. O aplicativo trabalha com mapas e webView.
 
 ## módulos
@@ -10,10 +10,10 @@ O app contém os seguintes módulos
 * uma tela com WebView para mostrar os detalhes do desenvolvedor quando clicado.
 
 ## Páginas do app
-![Foto do App Permissição](https://github.com/CarlosSTS/Semana_OmniStack_09-/blob/master/assets/permission.png)
-![Foto do App Dashboard](https://github.com/CarlosSTS/Semana_OmniStack_09-/blob/master/assets/dashboard.png)
-![Foto do App descrição](https://github.com/CarlosSTS/Semana_OmniStack_09-/blob/master/assets/description.png)
-![Foto do App perfil](https://github.com/CarlosSTS/Semana_OmniStack_09-/blob/master/assets/profile.png)
+![Foto do App Permissição](https://github.com/CarlosSTS/Semana_OmniStack_10-com-Knex.js/blob/master/assets/permission.png)
+![Foto do App Dashboard](https://github.com/CarlosSTS/Semana_OmniStack_10-com-Knex.js/blob/master/assets/dashboard.png)
+![Foto do App descrição](https://github.com/CarlosSTS/Semana_OmniStack_10-com-Knex.js/blob/master/assets/description.png)
+![Foto do App perfil](https://github.com/CarlosSTS/Semana_OmniStack_10-com-Knex.js/blob/master/assets/profile.png)
 
 ## MOBILE
 RODANDO O PROJETO MOBILE
