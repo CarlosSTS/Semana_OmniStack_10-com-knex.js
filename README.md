@@ -1,4 +1,4 @@
-# Semana_OmniStack_10-com-Knex.js 
+# Dev-radar 
 1. Sistema para encontrar desenvolvedores nas regiões por filtro de tecnologia.
 2. O aplicativo trabalha com mapas e webView.
 
