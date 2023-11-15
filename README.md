@@ -10,10 +10,21 @@ O app contém os seguintes módulos
 * uma tela com WebView para mostrar os detalhes do desenvolvedor quando clicado.
 
 ## Páginas do app
-![Foto do App Permissição](https://github.com/CarlosSTS/Semana_OmniStack_10-com-Knex.js/blob/master/assets/permission.png)
-![Foto do App Dashboard](https://github.com/CarlosSTS/Semana_OmniStack_10-com-Knex.js/blob/master/assets/dashboard.png)
-![Foto do App descrição](https://github.com/CarlosSTS/Semana_OmniStack_10-com-Knex.js/blob/master/assets/description.png)
-![Foto do App perfil](https://github.com/CarlosSTS/Semana_OmniStack_10-com-Knex.js/blob/master/assets/profile.png)
+
+<table>
+  <tr>
+<td><img src="https://github.com/CarlosSTS/Semana_OmniStack_10-com-Knex.js/blob/master/assets/permission.jpeg" alt="Foto do App Permissição" width="360" /></td>
+<td><img src="https://github.com/CarlosSTS/Semana_OmniStack_10-com-Knex.js/blob/master/assets/dashboard.jpeg" alt="Foto do App Dashboard" width="360" /></td>
+
+</tr>
+</table>
+
+<table>
+  <tr>
+  <td><img src="https://github.com/CarlosSTS/Semana_OmniStack_10-com-Knex.js/blob/master/assets/description.jpeg" alt="Foto do App descrição" width="360" /></td>
+<td><img src="https://github.com/CarlosSTS/Semana_OmniStack_10-com-Knex.js/blob/master/assets/profile.jpeg" alt="Foto do App perfil" width="360" /></td>
+</tr>
+</table>
 
 ## MOBILE
 RODANDO O PROJETO MOBILE
