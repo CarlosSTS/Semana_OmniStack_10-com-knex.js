@@ -13,16 +13,16 @@ O app contém os seguintes módulos
 
 <table>
   <tr>
-<td><img src="https://github.com/CarlosSTS/Semana_OmniStack_10-com-Knex.js/blob/master/assets/permission.jpeg" alt="Foto do App Permissição" width="360" /></td>
-<td><img src="https://github.com/CarlosSTS/Semana_OmniStack_10-com-Knex.js/blob/master/assets/dashboard.jpeg" alt="Foto do App Dashboard" width="360" /></td>
+<td><img src="https://github.com/CarlosSTS/Semana_OmniStack_10-com-Knex.js/blob/master/assets/permission.png" alt="Foto do App Permissição" width="360" /></td>
+<td><img src="https://github.com/CarlosSTS/Semana_OmniStack_10-com-Knex.js/blob/master/assets/dashboard.png" alt="Foto do App Dashboard" width="360" /></td>
 
 </tr>
 </table>
 
 <table>
   <tr>
-  <td><img src="https://github.com/CarlosSTS/Semana_OmniStack_10-com-Knex.js/blob/master/assets/description.jpeg" alt="Foto do App descrição" width="360" /></td>
-<td><img src="https://github.com/CarlosSTS/Semana_OmniStack_10-com-Knex.js/blob/master/assets/profile.jpeg" alt="Foto do App perfil" width="360" /></td>
+  <td><img src="https://github.com/CarlosSTS/Semana_OmniStack_10-com-Knex.js/blob/master/assets/description.png" alt="Foto do App descrição" width="360" /></td>
+<td><img src="https://github.com/CarlosSTS/Semana_OmniStack_10-com-Knex.js/blob/master/assets/profile.png" alt="Foto do App perfil" width="360" /></td>
 </tr>
 </table>
 
